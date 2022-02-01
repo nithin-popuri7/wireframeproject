@@ -23,7 +23,7 @@ Add a Text for home page and About us page and for photo gallery page add image 
 ## OUTPUT:
 ![githublogo](home.jpeg)
 ![githublogo](gallery.jpeg)
-![githublogo](contactus.jpeg)
+![githublogo](contact us.jpeg)
 
 
 ## Result:
